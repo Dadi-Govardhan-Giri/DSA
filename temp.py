@@ -1,1 +1,0 @@
-print("This is the basic file created to test Git")
